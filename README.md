@@ -1,4 +1,4 @@
-# fractals
+# fractals-data
 
 Links to photographic data for finding the fractal dimension of crumpled paper:
 
